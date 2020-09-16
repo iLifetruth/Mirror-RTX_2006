@@ -1,3 +1,4 @@
-# Mirror-RTX_2006
-Keil RTX in C
+# The mirror of Keil RTX in C
+
+> Latest Upadated：2020.06
 
